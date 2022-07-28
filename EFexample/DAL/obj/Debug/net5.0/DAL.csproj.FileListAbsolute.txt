@@ -1,0 +1,17 @@
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\bin\Debug\net5.0\appsettings.Development.json
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\bin\Debug\net5.0\appsettings.json
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\bin\Debug\net5.0\DAL.dll
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\bin\Debug\net5.0\DAL.pdb
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\DAL.dll
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\DAL.pdb
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DAL\obj\Debug\net5.0\ref\DAL.dll

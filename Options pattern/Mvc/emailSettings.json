@@ -1,0 +1,7 @@
+{
+  "LocalDomain": "example.com",
+  "EmailServer": "email-smtp.us-east-1.amazonaws.com",
+  "EmailServerPort": 25,
+  "FromMailBoxName": "Admin Example",
+  "FromMailBoxAddress": "noreply@example.com"
+}

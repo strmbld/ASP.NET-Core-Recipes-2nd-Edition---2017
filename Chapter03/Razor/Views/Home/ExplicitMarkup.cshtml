@@ -1,0 +1,29 @@
+﻿@model Guitar
+
+@{
+    string title = "Explicit Markup";
+}
+
+<h1>@title</h1>
+<pre>
+@@if (6 == 6)
+{
+    @@: @@Model.Brand @@Model.Model has @@Model.Strings.Count strings
+
+<text>
+    Only best guitar players play on @@Model.Brand
+    and bla blabla
+</text>
+}
+</pre>
+
+@if (6 == 6)
+{
+    @: @Model.Brand @Model.Model has @Model.Strings.Count strings
+
+
+    <text>
+        Only best guitar players play on @Model.Brand<br />
+        and bla blabla
+    </text>
+}

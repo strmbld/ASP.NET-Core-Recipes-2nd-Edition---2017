@@ -1,0 +1,15 @@
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\bin\Debug\net5.0\DALCiliberti.deps.json
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\bin\Debug\net5.0\DALCiliberti.dll
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\bin\Debug\net5.0\DALCiliberti.pdb
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\DALCiliberti.csproj.AssemblyReference.cache
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\DALCiliberti.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\DALCiliberti.AssemblyInfoInputs.cache
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\DALCiliberti.AssemblyInfo.cs
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\DALCiliberti.csproj.CoreCompileInputs.cache
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\DALCiliberti.dll
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\DALCiliberti.pdb
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\ref\DALCiliberti.dll
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\bin\Debug\net5.0\DALCiliberti.runtimeconfig.json
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\bin\Debug\net5.0\DALCiliberti.runtimeconfig.dev.json
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\DALCiliberti.genruntimeconfig.cache
+D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\EFexample\DALCiliberti\obj\Debug\net5.0\refint\DALCiliberti.dll

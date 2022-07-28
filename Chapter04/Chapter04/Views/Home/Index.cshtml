@@ -1,0 +1,38 @@
+﻿@inject Chapter04.Services.HitCounter.IHitCounter HitCounter
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<hr />
+<h2>HitCounter: @HitCounter.UpdateCount()</h2>
+<hr />
+
+<h1>Chapter 04 - Tag Helpers</h1>
+<a asp-action="Contact">Comparison</a>
+<br />
+<a asp-action="ActionLinks">Action links</a>
+<br />
+<a asp-action="FormTagHelpers">Form tag helpers</a>
+<br />
+<a asp-action="SelectTag">Select tag</a>
+<br />
+<a asp-action="Validation">Validation</a>
+<br />
+<a asp-action="CacheSelectList">Select options cache</a>
+<br />
+<item-create></item-create>
+<br />
+<item-delete item-id="1"></item-delete>
+<br />
+<item-details item-id="1"></item-details>
+<br />
+<item-edit item-id="1"></item-edit>
+<br />
+<item-list></item-list>
+<br />
+<a asp-action="TagCloud">Tag Cloud View Component</a>
+<br />
+ViewComponent tag helper below:
+<text>&lt;vc:lookup-list&gt;&lt;/vc:lookup-list&gt;</text>
+<vc:lookup-list></vc:lookup-list>

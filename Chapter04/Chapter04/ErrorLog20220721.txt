@@ -1,0 +1,228 @@
+[22-07-21 12:33:32 Information]:Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+Message:User profile is available. Using '"C:\Users\slrnd\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+[22-07-21 12:33:34 Information]:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+[22-07-21 12:33:34 Information]:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+[22-07-21 12:33:34 Information]:Microsoft.Hosting.Lifetime
+Message:Content root path: "D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04"
+
+[22-07-21 12:33:34 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/ - -
+
+[22-07-21 12:33:34 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executing endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:33:34 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Chapter04.Controllers.HomeController" ("Chapter04").
+
+[22-07-21 12:33:34 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executing ViewResult, running view "Index".
+
+[22-07-21 12:34:10 Information]:Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager
+Message:User profile is available. Using '"C:\Users\slrnd\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+
+[22-07-21 12:34:10 Information]:Microsoft.Hosting.Lifetime
+Message:Application started. Press Ctrl+C to shut down.
+
+[22-07-21 12:34:10 Information]:Microsoft.Hosting.Lifetime
+Message:Hosting environment: "Development"
+
+[22-07-21 12:34:10 Information]:Microsoft.Hosting.Lifetime
+Message:Content root path: "D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04"
+
+[22-07-21 12:34:10 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/ - -
+
+[22-07-21 12:34:10 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executing endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:10 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Chapter04.Controllers.HomeController" ("Chapter04").
+
+[22-07-21 12:34:10 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executing ViewResult, running view "Index".
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executed ViewResult - view "Index" executed in 804.5361ms.
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Executed action "Chapter04.Controllers.HomeController.Index (Chapter04)" in 817.9696ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executed endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/ - - - 200 - text/html;+charset=utf-8 889.8937ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/lib/bootstrap/css/bootstrap.css?v=L9fxXhh0DKyukbrb0cy4GeQxzbUQ2K8-70UQCD3i5zM&v=L9fxXhh0DKyukbrb0cy4GeQxzbUQ2K8-70UQCD3i5zM - -
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/lib/font-awesome/css/all.css?v=iqohlDG-xn9MRt53DKygzaORvtzhTCN4xvi1LHNU3OM&v=iqohlDG-xn9MRt53DKygzaORvtzhTCN4xvi1LHNU3OM - -
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/css/site.css?v=jCYaPysfTq_qqSb7f7dXGrH0XgX1FINQ7PLjGU1qv8o&v=jCYaPysfTq_qqSb7f7dXGrH0XgX1FINQ7PLjGU1qv8o - -
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/lib/jquery/jquery.js?v=H-K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk&v=H-K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk - -
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware
+Message:Sending file. Request path: '"/css/site.css"'. Physical path: '"D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04\wwwroot\css\site.css"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/lib/bootstrap/js/bootstrap.bundle.js?v=U-mDCLgTk8IMb18-fQT-ucvP73uHTPaG2qZU9o7smtE&v=U-mDCLgTk8IMb18-fQT-ucvP73uHTPaG2qZU9o7smtE - -
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0&v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware
+Message:Sending file. Request path: '"/js/site.js"'. Physical path: '"D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04\wwwroot\js\site.js"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/css/site.css?v=jCYaPysfTq_qqSb7f7dXGrH0XgX1FINQ7PLjGU1qv8o&v=jCYaPysfTq_qqSb7f7dXGrH0XgX1FINQ7PLjGU1qv8o - - - 200 2848 text/css 16.7109ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0&v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 200 230 application/javascript 1.3209ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware
+Message:Sending file. Request path: '"/lib/bootstrap/css/bootstrap.css"'. Physical path: '"D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04\wwwroot\lib\bootstrap\css\bootstrap.css"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware
+Message:Sending file. Request path: '"/lib/font-awesome/css/all.css"'. Physical path: '"D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04\wwwroot\lib\font-awesome\css\all.css"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware
+Message:Sending file. Request path: '"/lib/bootstrap/js/bootstrap.bundle.js"'. Physical path: '"D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04\wwwroot\lib\bootstrap\js\bootstrap.bundle.js"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/lib/font-awesome/css/all.css?v=iqohlDG-xn9MRt53DKygzaORvtzhTCN4xvi1LHNU3OM&v=iqohlDG-xn9MRt53DKygzaORvtzhTCN4xvi1LHNU3OM - - - 200 73625 text/css 25.5276ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/lib/bootstrap/js/bootstrap.bundle.js?v=U-mDCLgTk8IMb18-fQT-ucvP73uHTPaG2qZU9o7smtE&v=U-mDCLgTk8IMb18-fQT-ucvP73uHTPaG2qZU9o7smtE - - - 200 236517 application/javascript 18.0232ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/lib/bootstrap/css/bootstrap.css?v=L9fxXhh0DKyukbrb0cy4GeQxzbUQ2K8-70UQCD3i5zM&v=L9fxXhh0DKyukbrb0cy4GeQxzbUQ2K8-70UQCD3i5zM - - - 200 198240 text/css 37.1043ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware
+Message:Sending file. Request path: '"/lib/jquery/jquery.js"'. Physical path: '"D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04\wwwroot\lib\jquery\jquery.js"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/lib/jquery/jquery.js?v=H-K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk&v=H-K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk - - - 200 288580 application/javascript 39.3804ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/lib/font-awesome/webfonts/fa-solid-900.woff2 - -
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware
+Message:Sending file. Request path: '"/lib/font-awesome/webfonts/fa-solid-900.woff2"'. Physical path: '"D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04\wwwroot\lib\font-awesome\webfonts\fa-solid-900.woff2"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/lib/font-awesome/webfonts/fa-solid-900.woff2 - - - 200 80300 font/woff2 20.5595ms
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/favicon.ico - -
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware
+Message:Sending file. Request path: '"/favicon.ico"'. Physical path: '"D:\dev\cs\code for Ciliberti J. - ASP.NET Core Recipes, 2nd Edition - 2017\Chapter04\Chapter04\wwwroot\favicon.ico"'
+
+[22-07-21 12:34:11 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/favicon.ico - - - 200 5430 image/x-icon 22.3696ms
+
+[22-07-21 12:34:12 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/ - -
+
+[22-07-21 12:34:12 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executing endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:12 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Chapter04.Controllers.HomeController" ("Chapter04").
+
+[22-07-21 12:34:12 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executing ViewResult, running view "Index".
+
+[22-07-21 12:34:12 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executed ViewResult - view "Index" executed in 7.5481ms.
+
+[22-07-21 12:34:12 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Executed action "Chapter04.Controllers.HomeController.Index (Chapter04)" in 7.9083ms
+
+[22-07-21 12:34:12 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executed endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:12 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/ - - - 200 - text/html;+charset=utf-8 9.5248ms
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/ - -
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executing endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Chapter04.Controllers.HomeController" ("Chapter04").
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executing ViewResult, running view "Index".
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executed ViewResult - view "Index" executed in 4.0038ms.
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Executed action "Chapter04.Controllers.HomeController.Index (Chapter04)" in 4.6392ms
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executed endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/ - - - 200 - text/html;+charset=utf-8 5.2233ms
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/ - -
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executing endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Chapter04.Controllers.HomeController" ("Chapter04").
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executing ViewResult, running view "Index".
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executed ViewResult - view "Index" executed in 3.3508ms.
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Executed action "Chapter04.Controllers.HomeController.Index (Chapter04)" in 3.4901ms
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executed endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/ - - - 200 - text/html;+charset=utf-8 4.2099ms
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request starting HTTP/2 GET https://localhost:44351/ - -
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executing endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Route matched with "{action = \"Index\", controller = \"Home\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "Chapter04.Controllers.HomeController" ("Chapter04").
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executing ViewResult, running view "Index".
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor
+Message:Executed ViewResult - view "Index" executed in 2.7257ms.
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker
+Message:Executed action "Chapter04.Controllers.HomeController.Index (Chapter04)" in 2.8989ms
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Routing.EndpointMiddleware
+Message:Executed endpoint '"Chapter04.Controllers.HomeController.Index (Chapter04)"'
+
+[22-07-21 12:34:13 Information]:Microsoft.AspNetCore.Hosting.Diagnostics
+Message:Request finished HTTP/2 GET https://localhost:44351/ - - - 200 - text/html;+charset=utf-8 3.6095ms
+

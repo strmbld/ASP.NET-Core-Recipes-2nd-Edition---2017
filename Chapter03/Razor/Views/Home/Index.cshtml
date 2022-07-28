@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">ASP.NET MVC</h1>
+    <p>Razor Syntax examples</p>
+</div>
+
+<div class="row">
+    <div class="col-md-8">
+        <h2>Razor Syntax Examples</h2>
+        <ul>
+            <li>@Html.ActionLink("Variables", "Variables")</li>
+            <li>@Html.ActionLink("Control", "Control")</li>
+            <li>@Html.ActionLink("Loops", "Loops")</li>
+            <li>@Html.ActionLink("Html Helpers", "HtmlHelper")</li>
+            <li>@Html.ActionLink("Code Blocks", "CodeBlocks")</li>
+            <li>@Html.ActionLink("Code Nuggets", "CodeNuggets")</li>
+            <li>@Html.ActionLink("Explicit Markup", "ExplicitMarkup")</li>
+            <li>@Html.ActionLink("Comments", "Comments")</li>
+            <li>@Html.ActionLink("Login form with html helpers", "StandardHtmlHelpers")</li>
+            <li>@Html.ActionLink("Login form with strongly typed html helpers", "StronglyTypedHtmlHelpers")</li>
+            <li>@Html.ActionLink("Login form with templated html helpers", "TemplatedHtmlHelpers")</li>
+            <li>@Html.ActionLink("Warnings with inline functions", "InlineFunctions")</li>
+        </ul>
+    </div>
+</div>
+<a href="@Url.Action("Contact", "Home")">
+    <img src="~/images/3legDog.jpg" />
+</a>
